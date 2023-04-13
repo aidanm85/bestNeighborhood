@@ -9,7 +9,7 @@ CMPINF0010 Final Project
 
 Datasets: 
 * https://data.wprdc.org/dataset/residential-permit-parking-program-areas/resource/e2b1ca6b-bb2e-4767-bcc9-ce305671d104
-* A dataset containing information about Pittsburgh's residential parking permits.
+** A dataset containing information about Pittsburgh's residential parking permits.
 
 * https://data.wprdc.org/dataset/pittsburgh-parking-meters-and-payment-points
 * This dataset contains a list of Pittsburgh's on-street parking meters. Additionally, the list contains the neighborhood each meter is located in. By determining which neighborhoods contain the most parking meters we can estimate the availability of parking in the area.
