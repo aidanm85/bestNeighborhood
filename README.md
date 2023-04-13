@@ -12,7 +12,7 @@ Datasets:
 * A dataset containing information about Pittsburgh's residential parking permits.
 
 * https://data.wprdc.org/dataset/pittsburgh-parking-meters-and-payment-points
-* A dataset containing information about parking meters in the city of Pittsburgh.
+* This dataset contains a list of Pittsburgh's on-street parking meters. Additionally, the list contains the neighborhood each meter is located in. By determining which neighborhoods contain the most parking meters we can estimate the availability of parking in the area.
 
 * https://data.wprdc.org/dataset/metered-streets-pittsburgh-parking-authority/resource/9b68e71a-d117-41ad-81e1-af6965ea40f4
 * A dataset containing information about which streets in the city of Pittsburgh contain parking meters.
