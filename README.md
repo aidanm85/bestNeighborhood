@@ -17,5 +17,4 @@ Datasets:
 * https://data.wprdc.org/dataset/metered-streets-pittsburgh-parking-authority/resource/9b68e71a-d117-41ad-81e1-af6965ea40f4
   -  A dataset containing information about which streets in the city of Pittsburgh contain parking meters.
 
-
-
+* Jupyter Hub: https://jupyterhub.sci.pitt.edu/hub/user-redirect/lab/tree/Final%20Project
